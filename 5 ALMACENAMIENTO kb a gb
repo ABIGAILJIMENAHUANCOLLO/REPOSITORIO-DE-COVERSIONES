@@ -1,0 +1,11 @@
+#include <iostream>
+Uso del espacio de nombres std;
+
+int main() {
+    int kb,gb;
+    cout << "Ingrese un valor en kb:";
+    cin >> kb;
+GB=KB/1024/1024;
+cout<<"El valor en gb es :"<<gb;
+returno 0;
+}
